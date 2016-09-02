@@ -1,0 +1,3 @@
+imagefap.com##iframe[width="300"]
+imagefap.com###cntBanner
+imagefap.com###a1
