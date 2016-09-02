@@ -1,3 +1,11 @@
+! Title: Ben's AdBlock Filter
+! Version: 2016090100
+||pubnub.com^
+||popcash.net^
+||pointcmarketing.com^
+||adexc.net^
+||onclickpredictiv.com^
+||isanalyze.com^
 imagefap.com##iframe[width="300"]
 imagefap.com###cntBanner
 imagefap.com###a1
