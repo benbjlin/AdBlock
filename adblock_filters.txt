@@ -6,6 +6,15 @@
 ||adexc.net^
 ||onclickpredictiv.com^
 ||isanalyze.com^
+||sierra-fox.com^
+||zeroredirect11.com^
+||srvmm16.com^
+||adnostri.com^
+||contentabc.com^
+||adnostri.com^
+||contentabc.com^
 imagefap.com##iframe[width="300"]
 imagefap.com###cntBanner
 imagefap.com###a1
+##div[id^="MarketGid"]
+##[href^="http://mgid.com/"]
