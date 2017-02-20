@@ -1,5 +1,5 @@
 ! Title: Ben's AdBlock Filter
-! Version: 2016090100
+! Version: 2017022000
 ||pubnub.com^
 ||popcash.net^
 ||pointcmarketing.com^
